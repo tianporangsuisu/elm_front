@@ -1,0 +1,15 @@
+.flex {
+    display: flex;
+}
+
+.flexDirectionColumn{
+    flex-direction: column;
+}
+
+.flexDirectionRow{
+    flex-direction: row;
+}
+
+.flexAlignCenter{
+    align-items: center;
+}
